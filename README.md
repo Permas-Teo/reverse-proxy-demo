@@ -22,8 +22,8 @@ git clone https://github.com/Permas-Teo/reverse-proxy-demo.git
 
 #### Build images in each individual repo.
 
-docker build -t permasteo/microservice1 .
-docker build -t permasteo/microservice2 .
+docker build -t permasteo/microservice1 .<br/>
+docker build -t permasteo/microservice2 .<br/>
 docker build -t permasteo/mynginx .
 
 ## Step 2: Run docker containers
