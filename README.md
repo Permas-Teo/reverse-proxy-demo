@@ -4,7 +4,7 @@ CS3219 Task A
 
 # How to run docker container
 
-**Step 1: To get docker images**
+## Step 1: To get docker images
 
 ## Method 1: Via Docker Hub
 
